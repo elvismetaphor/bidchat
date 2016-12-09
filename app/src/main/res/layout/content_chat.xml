@@ -12,7 +12,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:background="@color/colorBackground"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="edu.slef.bidchat.ChatActivity"
+    tools:context="edu.self.bidchat.ChatActivity"
     tools:showIn="@layout/activity_chat">
 
     <android.support.v7.widget.RecyclerView

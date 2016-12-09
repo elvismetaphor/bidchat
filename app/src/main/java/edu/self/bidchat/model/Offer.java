@@ -1,4 +1,4 @@
-package edu.slef.bidchat.model;
+package edu.self.bidchat.model;
 
 
 public interface Offer {

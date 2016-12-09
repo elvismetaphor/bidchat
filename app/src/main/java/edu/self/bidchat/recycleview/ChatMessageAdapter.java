@@ -1,4 +1,4 @@
-package edu.slef.bidchat.recycleview;
+package edu.self.bidchat.recycleview;
 
 
 import android.content.Context;
@@ -13,9 +13,9 @@ import com.squareup.picasso.Picasso;
 
 import java.util.List;
 
-import edu.slef.bidchat.R;
-import edu.slef.bidchat.model.ChatMessage;
-import edu.slef.bidchat.model.Offer;
+import edu.self.bidchat.R;
+import edu.self.bidchat.model.ChatMessage;
+import edu.self.bidchat.model.Offer;
 
 public class ChatMessageAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 

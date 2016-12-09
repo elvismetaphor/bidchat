@@ -1,12 +1,12 @@
-package edu.slef.bidchat.manager;
+package edu.self.bidchat.manager;
 
 
 import java.util.ArrayList;
 import java.util.List;
 
-import edu.slef.bidchat.model.ChatMessage;
-import edu.slef.bidchat.model.Offer;
-import edu.slef.bidchat.webservice.ChatWebService;
+import edu.self.bidchat.model.ChatMessage;
+import edu.self.bidchat.model.Offer;
+import edu.self.bidchat.webservice.ChatWebService;
 
 public class ChatMessageManager {
 

@@ -1,4 +1,4 @@
-package edu.slef.bidchat;
+package edu.self.bidchat;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

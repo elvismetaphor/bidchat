@@ -1,4 +1,4 @@
-package edu.slef.bidchat;
+package edu.self.bidchat;
 
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -10,12 +10,12 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.EditText;
 
-import edu.slef.bidchat.Utils.DataUtils;
-import edu.slef.bidchat.manager.ChatMessageManager;
-import edu.slef.bidchat.manager.ModelManager;
-import edu.slef.bidchat.model.ChatMessage;
-import edu.slef.bidchat.model.ChatMessgeImpl;
-import edu.slef.bidchat.recycleview.ChatMessageAdapter;
+import edu.self.bidchat.Utils.DataUtils;
+import edu.self.bidchat.manager.ChatMessageManager;
+import edu.self.bidchat.manager.ModelManager;
+import edu.self.bidchat.model.ChatMessage;
+import edu.self.bidchat.model.ChatMessgeImpl;
+import edu.self.bidchat.recycleview.ChatMessageAdapter;
 
 public class ChatActivity extends AppCompatActivity {
 

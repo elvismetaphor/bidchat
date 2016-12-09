@@ -1,6 +1,4 @@
-package edu.slef.bidchat.model;
-
-import edu.slef.bidchat.model.ChatMessage;
+package edu.self.bidchat.model;
 
 
 public class ChatMessgeImpl implements ChatMessage {

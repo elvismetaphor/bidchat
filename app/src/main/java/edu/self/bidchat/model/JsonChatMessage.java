@@ -1,4 +1,4 @@
-package edu.slef.bidchat.model;
+package edu.self.bidchat.model;
 
 import com.google.gson.annotations.SerializedName;
 

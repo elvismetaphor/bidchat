@@ -1,4 +1,4 @@
-package edu.slef.bidchat;
+package edu.self.bidchat;
 
 import org.junit.Test;
 

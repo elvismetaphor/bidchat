@@ -1,10 +1,10 @@
-package edu.slef.bidchat.webservice;
+package edu.self.bidchat.webservice;
 
 
 import java.util.List;
 
-import edu.slef.bidchat.model.ChatMessage;
-import edu.slef.bidchat.model.Offer;
+import edu.self.bidchat.model.ChatMessage;
+import edu.self.bidchat.model.Offer;
 
 public interface ChatWebService {
 

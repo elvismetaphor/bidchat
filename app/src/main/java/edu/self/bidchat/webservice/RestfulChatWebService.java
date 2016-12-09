@@ -1,4 +1,4 @@
-package edu.slef.bidchat.webservice;
+package edu.self.bidchat.webservice;
 
 
 import android.support.annotation.NonNull;
@@ -16,13 +16,11 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
-import edu.slef.bidchat.Utils.StreamUtils;
-import edu.slef.bidchat.model.ChatMessage;
-import edu.slef.bidchat.model.JsonChatMessage;
-import edu.slef.bidchat.model.JsonOffer;
-import edu.slef.bidchat.model.Offer;
-
-import static android.content.ContentValues.TAG;
+import edu.self.bidchat.Utils.StreamUtils;
+import edu.self.bidchat.model.ChatMessage;
+import edu.self.bidchat.model.JsonChatMessage;
+import edu.self.bidchat.model.JsonOffer;
+import edu.self.bidchat.model.Offer;
 
 public class RestfulChatWebService implements ChatWebService {
 

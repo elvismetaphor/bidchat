@@ -1,7 +1,7 @@
-package edu.slef.bidchat.manager;
+package edu.self.bidchat.manager;
 
-import edu.slef.bidchat.webservice.ChatWebService;
-import edu.slef.bidchat.webservice.RestfulChatWebService;
+import edu.self.bidchat.webservice.ChatWebService;
+import edu.self.bidchat.webservice.RestfulChatWebService;
 
 public class ModelManager {
 
