@@ -1,4 +1,4 @@
-package edu.self.bidchat.Utils;
+package edu.self.bidchat.utils;
 
 
 import java.io.BufferedReader;

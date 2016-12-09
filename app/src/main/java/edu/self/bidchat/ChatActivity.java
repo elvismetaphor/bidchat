@@ -10,7 +10,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.EditText;
 
-import edu.self.bidchat.Utils.DataUtils;
+import edu.self.bidchat.utils.DataUtils;
 import edu.self.bidchat.manager.ChatMessageManager;
 import edu.self.bidchat.manager.ModelManager;
 import edu.self.bidchat.model.ChatMessage;

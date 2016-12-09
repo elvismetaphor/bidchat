@@ -16,7 +16,7 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
-import edu.self.bidchat.Utils.StreamUtils;
+import edu.self.bidchat.utils.StreamUtils;
 import edu.self.bidchat.model.ChatMessage;
 import edu.self.bidchat.model.JsonChatMessage;
 import edu.self.bidchat.model.JsonOffer;
